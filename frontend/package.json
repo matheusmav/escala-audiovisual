@@ -1,0 +1,15 @@
+{
+    "name": "audiovisual-app",
+    "version": "1.0.0",
+    "description": "Aplicação para exibir escalas do departamento audiovisual.",
+    "main": "index.js",
+    "scripts": {
+      "start": "http-server ./src -p 3000"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "http-server": "^14.1.1"
+    }
+  }
+  
